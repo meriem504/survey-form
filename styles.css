@@ -1,0 +1,99 @@
+#title{
+    margin-left:440px;
+    text-decoration: underline;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    color: #d8b17e;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#description{
+    padding-top: 17px;
+    padding-bottom: 0;
+    margin-left:80px;
+    font-family:verdana;
+    color: #b37f3c;
+}
+body{
+    background-color:#FAFAD2;
+    font-family:verdana;
+    
+}
+label {
+    display: block;
+    
+}
+fieldset{
+    border: none; 
+      
+}
+textarea{
+    width:620px;
+    height: 100px;
+}
+#menu {
+    width: 700px;
+    background-color: white;
+    margin-left:350px;
+    padding-left: 10px;
+  }
+#name ,#email ,#number,#dropdown,#selection{
+    width: 620px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 13px;
+    border: 2px solid #dedeba;
+}
+#name-label ,#email-label,#number-label{
+    padding-bottom: 10px;
+    color: #b37f3c;
+    font-size: 20px;
+}
+#option {
+    color: #b37f3c;
+    margin-top: 5px;
+    margin-bottom: 5px ;
+    font-size: 20px;
+}
+#recommend{
+    color: #b37f3c;
+    margin-top: 5px;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#favorite {
+    color: #b37f3c;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#what-you-like {
+    color: #b37f3c;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#improved{
+    color: #b37f3c;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 13px;
+}
+#comment{
+    color: #b37f3c;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.label1{
+    font-size: 20px;
+}
+input[type="submit"] {
+    background-color: #FAFAD2;
+    border-color: #FAFAD2;
+    width: 200px;
+    height: 35px;
+    margin-left: 250px;
+    font-size: 20px;
+}
